@@ -1,0 +1,15 @@
+.DS_Store
+.env
+.env.*
+*.log
+*.tmp
+node_modules/
+dist/
+coverage/
+cache/
+results/
+.dsh/
+sessions/
+uploads/
+.idea/
+.vscode/
